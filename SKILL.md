@@ -1,6 +1,10 @@
 ---
 name: evidence-first-research
 description: Evidence-first workflow for scientific research, literature review, method selection, study planning, biomedical analysis, and research writing. Use when Codex should pause before acting to search for prior papers, datasets, protocols, software, libraries, reporting standards, or methodological patterns, then decide whether to adopt, adapt, benchmark, or design a new approach. Especially useful for medicine, public health, biology, translational research, clinical questions, and any task where evidence quality, safety, or reproducibility matters.
+version: 0.1.0
+metadata:
+  openclaw:
+    homepage: https://github.com/ZackZ2025/evidence-first-research
 ---
 
 # Evidence First Research
