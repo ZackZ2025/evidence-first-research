@@ -20,7 +20,3 @@ This skill tells the model to search for prior papers, tools, datasets, protocol
 ## Core Principle
 
 Adopt, adapt, benchmark, or invent only after a real search has established what already exists and how strong the evidence is.
-
-## Repository
-
-GitHub repo: [ZackZ2025/evidence-first-research](https://github.com/ZackZ2025/evidence-first-research)
